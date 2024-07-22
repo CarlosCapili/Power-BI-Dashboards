@@ -1,4 +1,4 @@
-This repository is just to showcase the Power BI Dashboards I created.
+This repository is just to showcase the Power BI Dashboards I created. Later on, my dashboards will become more informative as I continue to learn.
 ## 1. Toronto Auto Theft 
 ![image](https://github.com/CarlosCapili/Power-BI-Dashboards/assets/59804756/59b834a3-f023-4096-a5da-c05742368345)
 
