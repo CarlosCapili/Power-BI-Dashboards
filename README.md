@@ -1,8 +1,13 @@
-This repository is just to showcase the Power BI Dashboards I created. Later on, my dashboards will become more informative as I continue to learn.
-## 1. Toronto Auto Theft 
+# Power BI Portfolio
+This repository showcases the Power BI Dashboards I created.
+
+
+# Dashboards
+
+## 1. Toronto Auto Theft 2014-2023
 ![image](https://github.com/CarlosCapili/Power-BI-Dashboards/assets/59804756/59b834a3-f023-4096-a5da-c05742368345)
 
-## 2. NBA Player Stat
+## 2. NBA Player Stat 2012-2023
 ![image](https://github.com/user-attachments/assets/41254dd0-e11e-4f9f-8163-4b4a2f2f43ac)
 
 ## 3. United Nations Population 1950-2100
